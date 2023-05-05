@@ -40,7 +40,7 @@ const Home = () => {
             <h1 className="text-slate-300 text-[2rem] md:text-[3rem] lg:text-[4rem] font-semibold mt-2 mb-0" id="name">Lwin Ko Ko.</h1>
             <h1 className="text-slate-500 text-[2rem] md:text-[3rem] lg:text-[4rem] font-semibold" id="occu">I Design/Develope Web.</h1>
             <p className="text-slate-400 text-sm lg:text-lg mt-4 mb-8" id="brief">I'm a web designer/developer who strive to stay up-to-date <br />  with the latest trends and advancements in the industry.</p>
-            <a id="button1">
+            <a id="button1" href="https://github.com/WattZarr/">
              <span className="inline-block px-6 py-3 border-2 custome-shadow border-light-green rounded text-light-green font-fira mt-8 hover:-translate-x-1 hover:-translate-y-1 transition ease-in duration-150">Check out my GitHub! </span>
             </a>
         </div>
