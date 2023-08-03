@@ -27,6 +27,7 @@ const Experience = () => {
                         <li className='flex items-center gap-5'> <VscDebugBreakpointFunction className='rotate-90 text-light-green'/><p>Developing and Designing landing Page and Admin Dashboard For <span  className='text-light-green'>Rosister(Local Tote-bag selling team)</span></p></li>
                         <li className='flex items-center gap-5'> <VscDebugBreakpointFunction className='rotate-90 text-light-green'/><p>Developing a webiste named <span className='text-light-green'>'thoughts'</span> which is mini-social media website with firebase</p></li>
                         <li className='flex items-center gap-5'> <VscDebugBreakpointFunction className='rotate-90 text-light-green'/><p>Working as Intern web-developer at <span className='text-light-green'>Digital Enginering Co.Ltd</span> which is Located in NayPyiTaw</p></li>
+                        <li className='flex items-center gap-5'> <VscDebugBreakpointFunction className='rotate-90 text-light-green'/><p>Currently Working as Junior web-developer at <span className='text-light-green'>AWS IT Solutions</span> which is also Located in NayPyiTaw</p></li>
                     </ul>
                 </div>
             </div>

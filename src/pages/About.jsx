@@ -47,7 +47,7 @@ const About = () => {
                                     <li className='flex items-center gap-2 my-2'><VscDebugBreakpointFunction className='rotate-90 text-light-green'/> Php </li>
                                     <li className='flex items-center gap-2 my-2'><VscDebugBreakpointFunction className='rotate-90 text-light-green'/> Vue.js </li>
                                     <li className='flex items-center gap-2 my-2'><VscDebugBreakpointFunction className='rotate-90 text-light-green'/> Laravel </li>
-                                    <li className='flex items-center gap-2 my-2'><VscDebugBreakpointFunction className='rotate-90 text-light-green'/> My Sql </li>
+                                    <li className='flex items-center gap-2 my-2'><VscDebugBreakpointFunction className='rotate-90 text-light-green'/> GraphQL </li>
                                 </div>
                                 <div>
                                     <li className='flex items-center gap-2 my-2'><VscDebugBreakpointFunction className='rotate-90 text-light-green'/> Jquery </li>
